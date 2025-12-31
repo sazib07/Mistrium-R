@@ -1,7 +1,7 @@
 import React from 'react'
 import Container from './container'
 import Flex from './ui/flex'
-import BannerImage from "../assets/Banner.png"
+import BannerImage from "../assets/banner.png"
 
 const Banner = () => {
   return (
