@@ -1,5 +1,5 @@
 import React from "react";
-import StarImage from "../assets/star.png";
+import StarImage from "../assets/Star.png";
 
 
 const SliderArea = ({ details }) => {
