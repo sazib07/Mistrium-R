@@ -1,6 +1,7 @@
 import React from "react";
 import StarImage from "../assets/star.png";
 
+
 const SliderArea = ({ details }) => {
   return (
     <div className="flex gap-10 items-center">
